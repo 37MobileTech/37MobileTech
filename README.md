@@ -6,7 +6,7 @@
 
 # 37手游 iOS技术团队
 
-<img src="/images/37iOSteam.png" width="150" style="height:auto; border-radius:50%" alt="37手游iOS技术团队"/>
+<img src="https://37ios.github.io/images/37iOSteam.png" width="150" style="height:auto; border-radius:50%" alt="37手游iOS技术团队"/>
 
 **GitHub Repository**
 - [37iOSTeam](https://github.com/37iOS)
