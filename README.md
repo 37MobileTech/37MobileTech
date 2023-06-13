@@ -4,15 +4,15 @@
 **37iOSTeam/37iOSTeam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# 37手游 iOS技术团队
+# 37手游 移动客户端团队
 
-<img src="https://37ios.github.io/images/37iOSteam.png" width="150" style="height:auto; border-radius:50%" alt="37手游iOS技术团队"/>
+<img src="https://37MobileTeam.github.io/images/37MobileTeam.png" width="150" style="height:auto; border-radius:50%" alt="37手游移动客户端团队"/>
 
 **GitHub Repository**
-- [37iOSTeam](https://github.com/37iOS)
+- [37MobileTeam](https://github.com/37MobileTeam)
 
 **GitHub Page**
-- [37iOS.github.io](https://37ios.github.io)
+- [37MobileTeam.github.io](https://37MobileTeam.github.io)
 
 **掘金主页**
-- [37手游iOS技术运营团队](https://juejin.cn/user/1002387318511214)
+- [37手游 移动客户端团队](https://juejin.cn/user/1002387318511214)
