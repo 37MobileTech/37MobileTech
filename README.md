@@ -8,7 +8,7 @@
 
 <img src="https://37MobileTeam.github.io/images/37MobileTeam.png" width="150" style="height:auto; border-radius:50%" alt="37手游移动客户端团队"/>
 
-**GitHub Repository**
+**GitHub Organization**
 - [37MobileTeam](https://github.com/37MobileTeam)
 
 **GitHub Page**
